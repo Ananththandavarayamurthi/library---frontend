@@ -1,0 +1,11 @@
+.button{
+    justify-content: center;
+}
+.button1{
+    justify-content: space-around;
+}
+.add-student{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}

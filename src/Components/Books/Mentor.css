@@ -1,0 +1,12 @@
+.img-card {
+  height: 250px;
+  aspect-ratio: 1/1;
+  object-fit: contain;
+}
+.imgs{
+    justify-content: center;
+}
+.buttondelete{
+  display:flex;
+  justify-content: space-between;
+}
